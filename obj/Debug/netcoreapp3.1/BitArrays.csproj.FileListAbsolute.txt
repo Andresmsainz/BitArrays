@@ -1,0 +1,12 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\bin\Debug\netcoreapp3.1\BitArrays.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\bin\Debug\netcoreapp3.1\BitArrays.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\bin\Debug\netcoreapp3.1\BitArrays.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\bin\Debug\netcoreapp3.1\BitArrays.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\bin\Debug\netcoreapp3.1\BitArrays.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\bin\Debug\netcoreapp3.1\BitArrays.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\obj\Debug\netcoreapp3.1\BitArrays.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\obj\Debug\netcoreapp3.1\BitArrays.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\obj\Debug\netcoreapp3.1\BitArrays.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\obj\Debug\netcoreapp3.1\BitArrays.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\obj\Debug\netcoreapp3.1\BitArrays.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\BitArrays\obj\Debug\netcoreapp3.1\BitArrays.genruntimeconfig.cache
